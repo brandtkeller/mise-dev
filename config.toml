@@ -1,0 +1,3 @@
+[tools]
+"aqua:zarf-dev/zarf" = "v0.67.0"
+go = "1.25.5"
